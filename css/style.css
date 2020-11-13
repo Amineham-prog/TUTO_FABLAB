@@ -1,0 +1,71 @@
+
+/*----------------------------CSS NAVBAR --------------------------------------------------------*/
+
+body {
+    background-color: lightblue;
+  }
+
+
+    .row-content {
+        margin: 0px auto;
+        padding: 15px 0px 15px 0px;
+        min-height: 400px; 
+    }
+    .navbar-dark {
+        background-color:#2a9cc8;
+        color: #ffffff;
+        padding:10px;
+   
+    }
+    
+    .nav-link,.navbar-brand {
+        color: #ffffff !important;
+    }
+    .nav-link:hover{
+        color:#007bff !important;
+    }
+    .navbar-dark .fa-bars{
+        color:#ffffff;
+    
+    }
+    
+    .navbar-dark .navbar-collapse{
+        margin:0px  0px 0px 0px;
+    }
+    .btn-sign-in{
+      background-color: aquamarine;  
+    }
+
+    /*--------------------END CSS NAVBAR ------------------------------*/
+
+    /*--------------------CSS_CAROUSSEL-----------------------------*/
+    .carousel {
+        background: #ffffff;
+        margin: 0x;
+        border: 2px solid #007bff; 
+    }
+
+      /*--------------------END CSS_CAROUSSEL-----------------------------*/
+
+      /*-------------CSS MEDIA -------------------------------------------*/
+      .mymedia{
+        color:#ffffff;
+      background:  #2a9cc8;
+    
+     border: 2px solid #007bff; 
+     margin: 3px auto;
+    
+    }
+    .mymediabody{
+      margin:4px 6px 0px 0px;
+     padding:4px;
+    
+    }
+    
+    .myimage{
+      width: 160px;
+      height: 140px;
+      margin:4px 0px 4px 4px;
+     border: 1px solid #ffffff; 
+    }
+      /*------------END CSS MEDIA ----------------------------------------*/
